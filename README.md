@@ -2,6 +2,8 @@
 
 For my something awesome, I trying to mimic a USB rubber Ducky. A rubber Ducky is a usb device that presents itself as a HID keyboard device to the target pc and injects malicious keystrokes on the target system. 
 
+The file arduinoScript.ino containes code that is flashed on the arduino pro micro and runs every time it is connected to PC.
+
 ## Part List
 1) Arduino Pro Micro
 2) DIP switch
